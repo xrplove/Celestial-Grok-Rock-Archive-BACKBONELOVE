@@ -18,3 +18,5 @@ Open either Markdown file on GitHub and follow the links. To add to the archive,
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
